@@ -23,4 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 ![8a6c4b61-4c2e-41ee-b0b9-5d0c61a97772](https://user-images.githubusercontent.com/77578718/177360937-0063c491-1036-4ab4-ad5e-61c6c127446e.png)
 ![701ceeac-70cd-41f6-96a8-bfe016a3eb59](https://user-images.githubusercontent.com/77578718/177361095-4dea770c-3de5-4295-af4c-793cb2f3c2a2.png)
 ![e8b22c6c-c615-4e73-9492-e30561224861](https://user-images.githubusercontent.com/77578718/177361256-42457cc5-bfde-40dc-b076-150405feb6cc.png)
-![WhatsApp Image 2022-05-29 at 1 46 14 PM (2)](https://user-images.githubusercontent.com/33758561/170867009-1aa89fa8-134c-41c4-9ecc-83ba362551c4.jpeg)
+![234705d1-c904-4e88-a277-ee5f17b71b28](https://user-images.githubusercontent.com/77578718/177361398-f371a7a0-dff8-4310-98f3-13dca41f4953.png)
+
